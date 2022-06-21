@@ -8,3 +8,4 @@ new hello world.
 new1Z
 Creating a new branch is quick and simple.
 xiugai
+Git is a free software ...
