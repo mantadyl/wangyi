@@ -8,10 +8,6 @@ new hello world.
 new1Z
 Creating a new branch is quick and simple.
 xiugai
-<<<<<<< HEAD
-Git is a free software ...
-=======
-Creating a new branch is quick.
-Creating a new branch is quick.
+----
+dev的修改
 >>>>>>> dev
-上锁
